@@ -1,4 +1,7 @@
 # title(){return this.options.title||this.options.name}
+	
+	This webPage was build for learning with scrimba. I learned the usage of ems and rems from this. also media queries. I also got to know about using pictures on websites using object-fit.. an amazing feature to make the web look good.
+I was building websites with px before. Now I got the superPower of using rems and ema also excellent media tools...
 
 ## Supporting Scrimba
 
